@@ -4,6 +4,8 @@ This shield was designed as part of a hexapod robot to be a central controller b
 - Arduino MEGA Development Breakout Section
 - NRF24L01 Connect Provision
 
+**Link for accessing the open-source file set is pasted at the bottom.**
+
 
 # Power Distribution
 There are 18 servos used in the bot, with each leg having three servos. Each leg has three different joints: Coaxial, Femur, and Tibia. Of the three, the Femur joint servo motor draws the most current because it outputs the highest torque. Thus, the 6 Femur joints are powered from one power source, and the other 12 joints altogether are powered by another source (both of which are commonly grounded).
